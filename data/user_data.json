@@ -1,0 +1,92 @@
+[
+    {
+        "id": "USER_ID_1",
+        "username": "user1",
+        "firstname": "Rust",
+        "lastname": "Admin",
+        "email": "email1@example.com",
+        "Custom_Field_1": "X1",
+        "zoho_id": "ZOHO_ID_1"
+    },
+    {
+        "id": "USER_ID_2",
+        "username": "user2",
+        "firstname": "Marty",
+        "lastname": "User",
+        "email": "email2@example.com",
+        "Custom_Field_1": "X2",
+        "zoho_id": "ZOHO_ID_2"
+    },
+    {
+        "id": "USER_ID_3",
+        "username": "user3",
+        "firstname": "Walter",
+        "lastname": "User",
+        "email": "email3@example.com",
+        "Custom_Field_1": "X3",
+        "zoho_id": "ZOHO_ID_3"
+    },
+    {
+        "id": "USER_ID_4",
+        "username": "user4",
+        "firstname": "Jessie",
+        "lastname": "User",
+        "email": "email4@example.com",
+        "Custom_Field_1": "X4",
+        "zoho_id": "ZOHO_ID_4"
+    },
+    {
+        "id": "USER_ID_5",
+        "username": "user5",
+        "firstname": "Edward",
+        "lastname": "Backup",
+        "email": "email5@example.com",
+        "Custom_Field_1": "X5",
+        "zoho_id": "ZOHO_ID_5"
+    },
+    {
+        "id": "USER_ID_6",
+        "username": "user6",
+        "firstname": "Alphonse",
+        "lastname": "User",
+        "email": "email6@example.com",
+        "Custom_Field_1": "X6",
+        "zoho_id": "ZOHO_ID_6"
+    },
+    {
+        "id": "USER_ID_7",
+        "username": "user7",
+        "firstname": "Eren",
+        "lastname": "User",
+        "email": "email7@example.com",
+        "Custom_Field_1": "X7",
+        "zoho_id": "ZOHO_ID_7"
+    },
+    {
+        "id": "USER_ID_8",
+        "username": "user8",
+        "firstname": "Armin",
+        "lastname": "User",
+        "email": "email8@example.com",
+        "Custom_Field_1": "X8",
+        "zoho_id": "ZOHO_ID_8"
+    },
+    {
+        "id": "USER_ID_9",
+        "username": "user9",
+        "firstname": "Butch",
+        "lastname": "User",
+        "email": "email9@example.com",
+        "Custom_Field_1": "X9",
+        "zoho_id": "ZOHO_ID_9"
+    },
+    {
+        "id": "USER_ID_10",
+        "username": "user10",
+        "firstname": "Jules",
+        "lastname": "User",
+        "email": "email10@example.com",
+        "Custom_Field_1": "X10",
+        "zoho_id": "ZOHO_ID_10"
+    }
+]

@@ -1,0 +1,84 @@
+2025-03-22 12:00:07,102 - -- Task execution started --
+2025-03-22 12:00:07,103 - * Fetching all Moodle users *
+2025-03-22 12:00:08,703 - Total Moodle users fetched: 154
+2025-03-22 12:00:08,703 - New Moodle users: 1
+2025-03-22 12:00:08,704 - * Pushing New Users *
+2025-03-22 12:00:08,704 - * Requesting Zoho access tokens *
+2025-03-22 12:00:08,705 - Request payload: {'client_id': 'XXXX', 'client_secret': 'XXXX', 'grant_type': 'client_credentials'}
+2025-03-22 12:00:09,571 - Response status: 200. Access token received
+2025-03-22 12:00:10,678 - 0 new users added to Zoho CRM.
+2025-03-22 12:00:10,679 - Push New Users executed
+2025-03-22 12:00:10,679 - * Updating Existing Users *
+2025-03-22 12:00:10,679 - * Fetching all Moodle users *
+2025-03-22 12:00:11,529 - Total Moodle users fetched: 154
+2025-03-22 12:00:11,535 - No users were updated in the JSON file.
+2025-03-22 12:00:11,536 - 0 existing users updated in Zoho CRM.
+2025-03-22 12:00:11,536 - Update Existing Users executed
+2025-03-22 12:00:11,536 - -- Task executed successfully --
+2025-03-22 12:00:11,536 - 
+2025-03-23 00:00:14,618 - -- Task execution started --
+2025-03-23 00:00:14,618 - * Fetching all Moodle users *
+2025-03-23 00:00:16,179 - Total Moodle users fetched: 154
+2025-03-23 00:00:16,179 - No new students found.
+2025-03-23 00:00:16,180 - No new users to process.
+2025-03-23 00:00:16,181 - Push New Users executed
+2025-03-23 00:00:16,181 - * Updating Existing Users *
+2025-03-23 00:00:16,181 - * Fetching all Moodle users *
+2025-03-23 00:00:16,938 - Total Moodle users fetched: 154
+2025-03-23 00:00:16,990 - 1 existing users updated in the JSON file. List of User ID's updated in JSON file: [170]
+2025-03-23 00:00:16,992 - * Requesting Zoho access tokens *
+2025-03-23 00:00:16,992 - Request payload: {'client_id': 'XXXX', 'client_secret': 'XXXX', 'grant_type': 'client_credentials'}
+2025-03-23 00:00:17,914 - Response status: 200. Access token received
+2025-03-23 00:00:20,090 - User ID USER_ID_HERE updated in Zoho CRM. Zoho record ID: RECORD_ID_HERE
+2025-03-23 00:00:20,090 - 1 existing users updated in Zoho CRM.
+2025-03-23 00:00:20,091 - Update Existing Users executed
+2025-03-23 00:00:20,091 - -- Task executed successfully --
+2025-03-23 00:00:20,091 - 
+2025-03-23 12:02:05,182 - -- Task execution started --
+2025-03-23 12:02:05,187 - * Fetching all Moodle users *
+2025-03-23 12:02:06,072 - Total Moodle users fetched: 154
+2025-03-23 12:02:06,073 - No new students found.
+2025-03-23 12:02:06,073 - No new users to process.
+2025-03-23 12:02:06,074 - Push New Users executed
+2025-03-23 12:02:06,074 - * Updating Existing Users *
+2025-03-23 12:02:06,074 - * Fetching all Moodle users *
+2025-03-23 12:02:06,717 - Total Moodle users fetched: 154
+2025-03-23 12:02:06,722 - No users were updated in the JSON file.
+2025-03-23 12:02:06,723 - 0 existing users updated in Zoho CRM.
+2025-03-23 12:02:06,723 - Update Existing Users executed
+2025-03-23 12:02:06,723 - -- Task executed successfully --
+2025-03-23 12:02:06,723 - 
+2025-03-24 00:02:05,761 - -- Task execution started --
+2025-03-24 00:02:05,761 - * Fetching all Moodle users *
+2025-03-24 00:02:06,835 - Total Moodle users fetched: 154
+2025-03-24 00:02:06,835 - No new students found.
+2025-03-24 00:02:06,836 - No new users to process.
+2025-03-24 00:02:06,836 - Push New Users executed
+2025-03-24 00:02:06,836 - * Updating Existing Users *
+2025-03-24 00:02:06,836 - * Fetching all Moodle users *
+2025-03-24 00:02:07,579 - Total Moodle users fetched: 154
+2025-03-24 00:02:07,584 - No users were updated in the JSON file.
+2025-03-24 00:02:07,584 - 0 existing users updated in Zoho CRM.
+2025-03-24 00:02:07,584 - Update Existing Users executed
+2025-03-24 00:02:07,584 - -- Task executed successfully --
+2025-03-24 00:02:07,584 - 
+2025-03-24 12:04:06,396 - -- Task execution started --
+2025-03-24 12:04:06,397 - * Fetching all Moodle users *
+2025-03-24 12:04:07,123 - Total Moodle users fetched: 155
+2025-03-24 12:04:07,124 - New Moodle users: 1
+2025-03-24 12:04:07,144 - * Pushing New Users *
+2025-03-24 12:04:07,144 - * Requesting Zoho access tokens *
+2025-03-24 12:04:07,145 - Request payload: {'client_id': 'XXXX', 'client_secret': 'XXXX', 'grant_type': 'client_credentials'}
+2025-03-24 12:04:08,113 - Response status: 200. Access token received
+2025-03-24 12:04:09,330 - User ID USER_ID_HERE  added to Zoho CRM. Zoho record ID: RECORD_ID_HERE
+2025-03-24 12:04:09,330 - 1 new users added to Zoho CRM.
+2025-03-24 12:04:09,340 - 1 new users added to the JSON file: List of User ID's added to JSON file: [171]
+2025-03-24 12:04:09,340 - Push New Users executed
+2025-03-24 12:04:09,340 - * Updating Existing Users *
+2025-03-24 12:04:09,340 - * Fetching all Moodle users *
+2025-03-24 12:04:09,989 - Total Moodle users fetched: 155
+2025-03-24 12:04:09,995 - No users were updated in the JSON file.
+2025-03-24 12:04:09,999 - 0 existing users updated in Zoho CRM.
+2025-03-24 12:04:09,999 - Update Existing Users executed
+2025-03-24 12:04:09,999 - -- Task executed successfully --
+2025-03-24 12:04:09,999 - 
