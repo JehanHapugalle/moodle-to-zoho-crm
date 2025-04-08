@@ -1,8 +1,8 @@
-# moodle-to-zoho-api
+# Moodle to Zoho CRM
 
 This Python application automates the daily synchronization of user data from Moodle LMS to Zoho CRM using API integration.
 
-Features
+## Features
 
 • Fetch New Students: Retrieves students created in the last 24 hours from Moodle API.
 
@@ -16,13 +16,13 @@ Features
 
 • Automated Execution: Runs daily via a CRON job on the hosting server.
 
-Installation & Usage
+## Installation & Usage
 
 1. Set up API credentials in .env.
 2. Configure Moodle and Zoho API settings.
 3. Schedule the script to run daily using a CRON job.
 
-Requirements
+## Requirements
 
 • requests==2.26.0
 
@@ -32,7 +32,7 @@ Requirements
 
 This ensures a seamless and automated student data sync between Moodle and Zoho CRM.
 
-Documentation
+## Documentation
 
 • The docs/ folder includes visual diagrams explaining how the push and update functions operate.
 
@@ -48,6 +48,6 @@ Documentation
 
 5. How to setup Moodle API credentials and Zoho API Console to obtain tokens
 
-Author
+## Author
 
 Jehan Hapugalle: JehanHapugalle
