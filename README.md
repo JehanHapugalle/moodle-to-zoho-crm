@@ -47,3 +47,7 @@ Documentation
 4. How the application can be modified or extended for different modules or workflows
 
 5. How to setup Moodle API credentials and Zoho API Console to obtain tokens
+
+Author
+
+Jehan Hapugalle: JehanHapugalle
