@@ -38,12 +38,12 @@ Documentation
 
 • Future documentation will also include:
 
-- A CRON job command example for automation and how to set up on a server
+1. A CRON job command example for automation and how to set up on a server
 
-- How to sync all historical Moodle user data to Zoho CRM
+2. How to sync all historical Moodle user data to Zoho CRM
   
-- Where the code has been generalized, showing what parts should be updated for your specific Moodle module or Zoho CRM setup
+3. Where the code has been generalized, showing what parts should be updated for your specific Moodle module or Zoho CRM setup
 
-- How the application can be modified or extended for different modules or workflows
+4. How the application can be modified or extended for different modules or workflows
 
-- How to setup Moodle API credentials and Zoho API Console to obtain tokens
+5. How to setup Moodle API credentials and Zoho API Console to obtain tokens
