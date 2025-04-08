@@ -1,6 +1,6 @@
 # moodle-to-zoho-api
 
-This script automates the daily synchronization of student data from Moodle LMS to Zoho CRM using API integration.
+This Python application automates the daily synchronization of user data from Moodle LMS to Zoho CRM using API integration.
 
 Features
 
@@ -31,3 +31,19 @@ Requirements
 • pylint==2.6.0
 
 This ensures a seamless and automated student data sync between Moodle and Zoho CRM.
+
+Documentation
+
+• The docs/ folder includes visual diagrams explaining how the push and update functions operate.
+
+• Future documentation will also include:
+
+- A CRON job command example for automation and how to set up on a server
+
+- How to sync all historical Moodle user data to Zoho CRM
+  
+- Where the code has been generalized, showing what parts should be updated for your specific Moodle module or Zoho CRM setup
+
+- How the application can be modified or extended for different modules or workflows
+
+- How to setup Moodle API credentials and Zoho API Console to obtain tokens
